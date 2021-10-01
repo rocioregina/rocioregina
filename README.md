@@ -2,7 +2,8 @@
 <p> 👀 I’m interested in programming, music, art and indie videogames</p>
 <p> 🌱 I’m currently learning Python+DJango and socket.io(JS)</p>
 <p> 🌱 Current skills: JavaScript, ReactJS, Redux, HTML, CSS, Python and Java(basic)</p>
-📫 Reach me via LinkedIn: https://www.linkedin.com/in/rocio-regina-dev/
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/rocio-regina-dev/)
+<hr>
 
 <!---
 rocioregina/rocioregina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
