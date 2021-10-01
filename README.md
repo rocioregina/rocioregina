@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rocioregina
+<h1 align="center">👋 Hi, I’m Rocio</h1>
 - 👀 I’m interested in programming, music, art and indie videogames
 - 🌱 I’m currently learning Web Development
 - 🌱 Current skills: JavaScript, ReactJS, Redux, HTML, CSS, Python and Java(basic)
