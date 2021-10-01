@@ -2,7 +2,7 @@
 <p> 👀 I’m interested in programming, music, art and indie videogames</p>
 <p> 🌱 I’m currently learning Python+DJango and socket.io(JS)</p>
 <p> 🌱 Current skills: JavaScript, ReactJS, Redux, HTML, CSS, Python and Java(basic)</p>
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/rocio-regina-dev/)
+📫 [Reach me via LinkedIn](https://www.linkedin.com/in/rocio-regina-dev/)
 <hr>
 
 Tech stack:
@@ -13,9 +13,11 @@ Tech stack:
   ![SCSS](https://img.shields.io/badge/-SCSS-FFFFFF?style=flat&logo=sass&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+  ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=java)
+-  &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
--  &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat&logo=mongodb)
