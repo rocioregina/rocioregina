@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Rocio</h1>
 <p> 👀 I’m interested in programming, music, art and indie videogames</p>
-<p> 🌱 I’m currently learning Python+DJango and socket.io(JS)</p>
+<p> 🌱 I’m currently learning Go</p>
 📫 [Reach me via LinkedIn](https://www.linkedin.com/in/rocio-regina-dev/)
 <hr>
 
